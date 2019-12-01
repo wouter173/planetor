@@ -1,0 +1,10 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"outDir": "src/javascript",
+	},
+	"include": ["**/*"],
+	"exclude": [""],
+	"allowJs": true
+}
